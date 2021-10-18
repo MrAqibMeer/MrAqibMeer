@@ -1,8 +1,8 @@
-- 👋 Hi, I’m a Full Stack Frot End Developer
+- 👋 Hi, I’m a MERN Stack Developer
 - 👀 I’m interested in Coding and Gaming
 - 🌱 I’m currently learning Recat Native & React Native Web
 - 💞️ I’m looking to collaborate on different Projects
-- 📫 How to reach me ... admin@deviantsol.com
+- 📫 How to reach me ... saffameer524@gmail.com
 
 <!---
 
